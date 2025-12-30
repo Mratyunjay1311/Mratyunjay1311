@@ -1,91 +1,109 @@
 <h1 align="center">Hi 👋, I'm Mratyunjay Mishra</h1>
-<h3 align="center">An aspiring Full-Stack Developer (MERN)</h3>
-
----
-
-## 👨‍💻 About Me
-I’m a full-stack (MERN) developer in the making, focused on learning by building real-world web applications. I enjoy turning ideas into working products while strengthening my understanding of both frontend and backend development. Right now, I’m putting my learning into practice through hands-on projects, improving code quality, and sharpening my problem-solving skills. My aim is to create practical, scalable, and user-friendly applications that deliver real value.
-
----
-
-### 🚀 What I'm Currently Doing
--🌱 Learning and practicing React, Node.js, Express, and MongoDB to become stronger in full-stack development
--🚀 Working on real-world projects to improve my end-to-end development process
--🔍 Trying new tools and development patterns to write better and cleaner code
--🧪 Focusing on improving UI and building interfaces that feel simple and user-friendly
--📈 Pushing myself to grow every day through practice, feedback, and continuous learning
-
----
-
-### 🌟 My Goals
--Build web applications that solve real-world problems and are useful for people
--Start contributing to open-source projects to learn from the developer community
--Improve my ability to write clean, readable, and maintainable code
--Grow step by step into a reliable and confident full-stack developer
-
-## 📂 Want to see my work?
-👉 **Portfolio:** https://portofolio-mratyunjaymishra.vercel.app/
-
-----
-## 🌐 Connect with Me  
+<h3 align="center">Aspiring Full-Stack Developer | MERN Stack</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mratyunjay-mishra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:brahman.mratyunjay1311@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/im_mratyunjay/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  
+Building real-world web applications • Learning by doing • Growing every day 🚀
+</p>
+
 ---
 
-## 💼 Featured Projects  
+## 👋 About Me  
+
+I am an aspiring **Full-Stack (MERN) Developer** who believes in learning through building.  
+I enjoy converting ideas into functional, user-friendly web applications while strengthening my understanding of both **frontend and backend development**.
+
+Currently, I focus on:
+- Writing clean and maintainable code  
+- Building real-world projects from scratch  
+- Improving UI/UX and application performance  
+- Developing strong problem-solving and logical thinking skills  
+
+My long-term goal is to become a **reliable full-stack developer** who creates scalable products that genuinely help users.
+
+---
+
+## 🚀 What I’m Currently Working On  
+
+- 🌱 Strengthening my skills in **React, Node.js, Express, MongoDB**
+- 🧩 Building full-stack projects to understand end-to-end development
+- 🧪 Improving UI consistency and user experience
+- 🔍 Exploring best practices, tools, and modern development patterns
+- 📈 Growing through consistent practice and real project experience  
+
+---
+
+## 🎯 Goals  
+
+- Build web applications that solve real-world problems  
+- Contribute to open-source projects and learn from the community  
+- Write clean, readable, and maintainable code  
+- Grow step by step into a confident full-stack engineer  
+
+---
+
+## 📂 Portfolio  
+
+🔗 **Portfolio Website:**  
+👉 https://portofolio-mratyunjaymishra.vercel.app/
+
+---
+
+## 🤝 Connect With Me  
 
 <p align="center">
-
-  <!-- Project 1 -->
-  <a href="https://personal-timecapsule-mmjs.netlify.app/" target="_blank">
-    <img src="https://drive.google.com/file/d/1hV5w00loU_tIAq1GdHsR2Wh0V1EwucFM/view?usp=sharing" />
+  <a href="https://www.linkedin.com/in/mratyunjay-mishra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br/>
-  <sub>💬A full-stack time capsule application that allows users to save personal memories and digital content, securely locked until a chosen future date.</sub>
-  <br/><br/>
-
-  
-
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="85%" />
+  <a href="mailto:brahman.mratyunjay1311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/im_mratyunjay/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
+## 💼 Featured Project  
+
+<p align="center">
+  <a href="https://personal-timecapsule-mmjs.netlify.app/" target="_blank">
+    <img src="https://drive.google.com/uc?id=1hV5w00loU_tIAq1GdHsR2Wh0V1EwucFM" width="80%" />
+  </a>
+</p>
+
+<p align="center">
+  💬 <strong>Time Capsule Web App</strong><br/>
+  A full-stack application that allows users to securely store memories, messages, and media,
+  locked until a selected future date, with authentication and cloud-based storage.
+</p>
+
+---
 
 ## 🛠️ Tech Stack  
 
-<h3 align="center">⚙️ Languages, Frameworks & Tools</h3>
+<h3 align="center">Languages • Frameworks • Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,ts,mongodb,firebase,tailwind,git,github,redux,redis,figma,postman,vercel,npm,bootstrap,materialui,vscode&perline=8&theme=light" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,redux,git,github,postman,vercel,npm,figma,vscode&perline=8&theme=light" />
 </p>
 
 ---
 
 ## 🧩 Problem Solving  
 
-- 📘 Regularly strengthening problem-solving skills through structured DSA practice
-- ⚙️ Focused on writing efficient, readable, and maintainable solutions 
-- 🚀 Enjoy transforming logical challenges into practical solutions 
-
----
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mratyunjay1311&style=for-the-badge)
+- 📘 Actively strengthening problem-solving skills through DSA practice  
+- ⚙️ Focused on writing efficient, readable, and optimized solutions  
+- 🚀 Applying logical thinking to real-world development challenges  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&text=Thanks+for+visiting+my+profile!+Keep+coding+and+growing+🚀&fontColor=ffffff&fontSize=22&animation=twinkling&fontAlignY=70"/>
+  <img src="https://komarev.com/ghpvc/?username=Mratyunjay1311&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&text=Thanks+for+visiting+my+profile!+Keep+building+and+learning+🚀&fontColor=ffffff&fontSize=22&animation=twinkling&fontAlignY=70"/>
 </p>
