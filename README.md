@@ -66,17 +66,43 @@ My long-term goal is to become a **reliable full-stack developer** who creates s
 
 ## 💼 Featured Project  
 
-<p align="center">
-  <a href="https://personal-timecapsule-mmjs.netlify.app/" target="_blank">
-    <img src="https://drive.google.com/uc?id=1hV5w00loU_tIAq1GdHsR2Wh0V1EwucFM" width="80%" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  💬 <strong>Time Capsule Web App</strong><br/>
-  A full-stack application that allows users to securely store memories, messages, and media,
-  locked until a selected future date, with authentication and cloud-based storage.
-</p>
+<a href="https://personal-timecapsule-mmjs.netlify.app/" target="_blank">
+  <img src="https://drive.google.com/uc?id=1hV5w00loU_tIAq1GdHsR2Wh0V1EwucFM" width="85%" />
+</a>
+
+### ⏳ Time Capsule Web Application  
+
+**Preserve today’s memories for the future.**  
+A full-stack web application that allows users to securely store messages, images, and media in a digital time capsule, locked until a chosen future date. Built with a focus on security, clean UI, and real-world usability.
+
+</div>
+
+---
+
+### 🔑 Key Features
+- 🔐 Secure user authentication & authorization  
+- ⏰ Future-based capsule unlocking system  
+- ☁️ Cloud storage support for images and media  
+- 🎨 Clean, minimal, and user-friendly interface  
+- 🔄 Persistent data with database integration  
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Auth & Storage:** JWT, Cloud Storage  
+
+---
+
+### 🔗 Live Demo
+👉 **[View Live Project](https://personal-timecapsule-mmjs.netlify.app/)**
+
+---
+
 
 ---
 
