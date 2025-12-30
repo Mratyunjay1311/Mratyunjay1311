@@ -75,9 +75,9 @@ I’m a full-stack (MERN) developer in the making, focused on learning by buildi
 
 ## 🧩 Problem Solving  
 
-- 🧠 Practicing *DSA* on **LeetCode** 
-- 🧮 Writing optimized, scalable & clean code  
-- 💡 Passionate about solving real-world challenges  
+- 📘 Regularly strengthening problem-solving skills through structured DSA practice
+- ⚙️ Focused on writing efficient, readable, and maintainable solutions 
+- 🚀 Enjoy transforming logical challenges into practical solutions 
 
 ---
 
