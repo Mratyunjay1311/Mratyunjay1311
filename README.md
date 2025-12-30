@@ -82,7 +82,7 @@ I’m a full-stack (MERN) developer in the making, focused on learning by buildi
 ---
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=sk497623&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Mratyunjay1311&style=for-the-badge)
 
 ---
 
